@@ -18,6 +18,11 @@ This pen does not provide a undo funciton. One note also does not have a shortcu
 ## Step 6: Single Click > Open a program 
 ## Step 7: Choose a program
 ## Step 8: select the undoClicker.exe
+## Step 9: Firewall warning
+When you try clicking once, windows firewall will give a window, just say "run anyway". <br />
+From then on you can use that **flawlessly :)**.
+
+
 
   
 
