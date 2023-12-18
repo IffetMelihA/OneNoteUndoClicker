@@ -1,7 +1,7 @@
 # OneNote Undo Button Clicker
-OS: Windows 11
-Computer Model: Dell XPS 13 9310 2in1 Undo Button Clicker for OneNote
-Pen: Dell PN7522W
+OS: Windows 11 \n
+Computer Model: Dell XPS 13 9310 2in1 Undo Button Clicker for OneNote \n
+Pen: Dell PN7522W \n
 
 This pen does not provide a undo funciton. One note also does not have a shortcut for undo. My brother wanted to do undo without having to click on the undo button manually. So, I created this automatic undo button clicker for him to undo his sketches in One Note without manually having to do that himself.
 ## Step 1: Download the undoClicker.exe file
